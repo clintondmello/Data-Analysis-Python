@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Data Anlyazer", "Data Anlyazer\Data Anlyazer.pyproj", "{77DEA734-FAFB-43E2-AC79-B3B0A558FB5C}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Data Analyzer", "Data Anlyazer\Data Analyzer.pyproj", "{77DEA734-FAFB-43E2-AC79-B3B0A558FB5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
